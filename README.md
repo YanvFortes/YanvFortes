@@ -1,7 +1,7 @@
 # Yan Fortes
 
 💻 **Desenvolvedor Full Stack .NET Pleno**  
-🎓 Suporior em Análise e Desenvolvimento de Sistemas *(em andamento)*  
+🎓 Superior em Análise e Desenvolvimento de Sistemas *(em andamento)*  
 🎓 Técnico em Informática – QI  
 
 Desenvolvedor focado na construção de **APIs robustas, aplicações web escaláveis e sistemas orientados a domínio**.  
