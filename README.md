@@ -22,13 +22,14 @@ Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Cl
 ### Frontend
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![Radzen](https://img.shields.io/badge/Radzen-Blazor_UI-68217A?style=for-the-badge)
 ![MudBlazor](https://img.shields.io/badge/MudBlazor-Blazor_UI-512BD4?style=for-the-badge)
 
@@ -60,8 +61,8 @@ Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Cl
 # Principais Conhecimentos
 
 - C# | .NET (4.6 – .NET 10) | ASP.NET Core  
-- React | Blazor | TypeScript | Tailwind | Bootstrap | jQuery  
-- Radzen | MudBlazor  
+- React | TypeScript | Tailwind | Bootstrap | jQuery  
+- Blazor | Radzen | MudBlazor  
 - REST APIs | Microservices | WebServices  
 - Entity Framework | SQL Server | PostgreSQL  
 - JWT | Basic Auth | Hangfire | xUnit  
