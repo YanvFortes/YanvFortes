@@ -30,8 +30,8 @@ Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Cl
 ![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
 
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
-![Radzen](https://img.shields.io/badge/Radzen-Blazor_UI-68217A?style=for-the-badge)
-![MudBlazor](https://img.shields.io/badge/MudBlazor-Blazor_UI-512BD4?style=for-the-badge)
+![Radzen](https://img.shields.io/badge/Blazor-68217A?style=for-the-badge&logo=blazor&logoColor=white)
+![MudBlazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ---
 
