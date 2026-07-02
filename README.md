@@ -5,7 +5,7 @@
 🎓 Técnico em Informática – QI  
 
 Desenvolvedor focado na construção de **APIs robustas, aplicações web escaláveis e sistemas orientados a domínio**.  
-Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Clean Code e boas práticas de arquitetura** para criar soluções performáticas e sustentáveis.
+Experiência com **C#, .NET, React, Angular e bancos relacionais**, aplicando **SOLID, Clean Code e boas práticas de arquitetura** para criar soluções performáticas e sustentáveis.
 
 ---
 
@@ -23,6 +23,7 @@ Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Cl
 
 ![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -44,6 +45,7 @@ Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Cl
 ### Ferramentas
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Hangfire](https://img.shields.io/badge/Hangfire-FF6600?style=for-the-badge)
 
@@ -57,14 +59,15 @@ Experiência com **C#, .NET, React e bancos relacionais**, aplicando **SOLID, Cl
 
 # Principais Conhecimentos
 
-- C# | .NET (4.6 – .NET 10) | ASP.NET Core  
-- React | TypeScript | Tailwind | Bootstrap | jQuery  
-- Blazor | Radzen | MudBlazor  
-- REST APIs | Microservices | WebServices  
-- Entity Framework | SQL Server | PostgreSQL  
-- JWT | Basic Auth | Hangfire | xUnit  
-- Arquitetura em Camadas | SOLID | Design Patterns | Clean Code  
-- Docker | CI/CD | Git | TFS | Observabilidade e Logging  
+- C# | .NET (4.6 – .NET 10) | ASP.NET Core
+- React | Angular | TypeScript | JavaScript
+- Blazor | Radzen | MudBlazor
+- Tailwind CSS | Bootstrap | jQuery
+- REST APIs | WebServices | Microservices
+- Entity Framework | SQL Server | PostgreSQL
+- JWT | Basic Auth | RabbitMQ | Hangfire | xUnit
+- Arquitetura em Camadas | SOLID | Design Patterns | Clean Code
+- Docker | CI/CD | Git | TFS | Observabilidade e Logging
 
 ---
 
